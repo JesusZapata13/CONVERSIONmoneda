@@ -1,4 +1,0 @@
-Coloca aquí el archivo gson-2.10.1.jar
-
-Descárgalo desde:
-https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1

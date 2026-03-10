@@ -1,5 +1,5 @@
 @echo off
-REM ─── Compilar y ejecutar Conversor de Monedas ────────────────────────────
+
 
 set LIBS=libs\gson-2.10.1.jar
 set OUT=out
